@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-webapp",
+  "version": "1.0.0",
+  "description": "MY 1ST Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tobi.alabi30@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mocha": "^10.2.0"
+  }
+}
